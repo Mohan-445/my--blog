@@ -7,4 +7,7 @@ This is my personal portfolio website, where I showcase my work, projects, and s
 - A portfolio section to showcase my projects.
 - A contact form.
 
+echnologies Used: List the frameworks or tools you used.
+Project Setup: More detailed installation instructions.
+Contributing: If others can contribute to your project.
 
